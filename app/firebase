@@ -9,6 +9,7 @@ import com.google.firebase.ktx.Firebase
 
 const val TAG = "FIRESTORE"
 
+
 class firestore : AppCompatActivity() {
     private lateinit var binding: ActivityFirestoreBinding
     override fun onCreate(savedInstanceState: Bundle?) {
