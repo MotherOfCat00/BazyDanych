@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343689598493",
+    "project_id": "bazy-danych-c69d2",
+    "storage_bucket": "bazy-danych-c69d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343689598493:android:95a4f6b8fefffaa2e398f4",
+        "android_client_info": {
+          "package_name": "com.example.examplefirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343689598493-q61p04s1ulntnm62fq1f9n15c3rpfr04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfu76TsW96gjXcY_1MOsHf_1EouWFozhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343689598493-q61p04s1ulntnm62fq1f9n15c3rpfr04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
